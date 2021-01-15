@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b73084b-446d-4075-aff2-a21809e0599c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="grpc-project" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="grpc-project" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="grpc-project" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ljxhtVmErvb5ZlYz6m6mZ21ZOE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="manoj" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GreetingClient">
+    <configuration name="AdminBroadcaster" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manoj.AdminBroadcaster" />
+      <module name="grpc-project.main" />
+      <option name="VM_PARAMETERS" value="-DXmx=2048m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="manoj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreetingAdminClientOne" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manoj.GreetingAdminClientOne" />
+      <module name="grpc-project.main" />
+      <option name="VM_PARAMETERS" value="-DXmx=2048m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="manoj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreetingClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manoj.GreetingClient" />
+      <module name="grpc-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="manoj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreetingClientTwo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manoj.GreetingClientTwo" />
+      <module name="grpc-project.main" />
+      <option name="VM_PARAMETERS" value="-DXmx=2048m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="manoj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreetingServer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manoj.GreetingServer" />
+      <module name="grpc-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="manoj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grpc-project [generateProto]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="generateProto" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.GreetingAdminClientOne" />
+      <item itemvalue="Application.GreetingClientTwo" />
+      <item itemvalue="Application.AdminBroadcaster" />
+      <item itemvalue="Application.GreetingServer" />
+      <item itemvalue="Gradle.grpc-project [generateProto]" />
+      <item itemvalue="Application.GreetingClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GreetingClient" />
+        <item itemvalue="Gradle.grpc-project [generateProto]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b73084b-446d-4075-aff2-a21809e0599c" name="Default Changelist" comment="" />
+      <created>1608124423935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608124423935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="81" key="#Project_Structure" timestamp="1609946710109">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="81" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1609946710109" />
+    <state x="320" y="96" key="#Project_Structure/0.23.1440.813@0.23.1440.813" timestamp="1609743324048" />
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610444223862">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1610444223862" />
+    <state x="434" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609937657509">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="434" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1609937657509" />
+    <state x="434" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.813@0.23.1440.813" timestamp="1609742449689" />
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1609999245175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1609999245175" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1610459753307">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610459753307" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1610443725362" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1610459753306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610459753306" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1610443725361" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1610459753305">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610459753305" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1610443725360" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1610459753306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610459753306" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1610443725361" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1610110535667">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610110535667" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1610110535664">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1610110535664" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1610110535663">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1610110535663" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1610110535666">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1610110535666" />
+    <state x="229" y="50" key="SettingsEditor" timestamp="1610258654630">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="50" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1610258654630" />
+    <state x="229" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1609743143158" />
+    <state x="376" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1609937753392">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1609937753392" />
+    <state x="376" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1609741646126" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1610368243462">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1610368243462" />
+  </component>
+</project>
